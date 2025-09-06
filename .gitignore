@@ -1,0 +1,20 @@
+# Backend
+contrato-service-backend/target/
+contrato-service-backend/.env
+contrato-service-backend/*.log
+
+# Frontend  
+contrato-app-frontend/node_modules/
+contrato-app-frontend/build/
+contrato-app-frontend/.env
+contrato-app-frontend/.env.local
+contrato-app-frontend/.env.development.local
+contrato-app-frontend/.env.test.local
+contrato-app-frontend/.env.production.local
+
+# Geral
+.DS_Store
+*.class
+*.log
+.idea/
+.vscode/
