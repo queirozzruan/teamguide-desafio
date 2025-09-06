@@ -5,8 +5,6 @@ contrato-service-backend/*.log
 
 # Frontend 
 contrato-app-frontend/node_modules/
-contrato-app-frontend/build/
-contrato-app-frontend/.env*
 
 
 # Geral
