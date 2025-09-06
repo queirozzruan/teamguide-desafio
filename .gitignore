@@ -3,10 +3,6 @@ contrato-service-backend/target/
 contrato-service-backend/.env
 contrato-service-backend/*.log
 
-# Frontend 
-contrato-app-frontend/node_modules/
-
-
 # Geral
 .DS_Store
 *.class
